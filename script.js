@@ -66,10 +66,10 @@ ctx.fillRect(event.offsetX - width/2, event.offsetY- width/2, width, width);
 cnv.ontouchmove=(event)=>{
     if(tool == "Кисточка"){
         ctx.fillStyle = color;
-        ctx.fillRect(event.changedTouches[0].pageX- width/2, event.changedTouches[0].pageY- width/2, width, width);
+        ctx.fillRect(event.changeTouches[0].pageX - cnv.getBoundingClientRect().left - width/2, event.changeTouches[0].pageY - cnv.getBoundingClientRect.top - width/2, width, width);
     }
     else
-    ctx.clearRect(event.changedTouches[0].pageX- width/2, event.changedTouches[0].pageY- width/2, width, width);
+    ctx.clearRect(event.changeTouches[0].pageX - cnv.getBoundingClientRect().left - width/2, event.changeTouches[0].pageY - cnv.getBoundingClientRect.top - width/2, width, width);
 }
 //ждём событие изменения цвета для палитры заднгео фона
 background.addEventListener('input', changeBackground);
