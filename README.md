@@ -9,6 +9,7 @@
 #  При помощи неё вы можете с лёгкостью воспроизвести такие шедевры как: чёрный квадрат Малевича и многое другое. 
 [![](https://github.com/Faruhshoh/risovalka/blob/main/README/%D0%90%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D1%8F.gif?raw=true)](https://github.com/Faruhshoh/risovalka/blob/main/README/%D0%90%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D1%8F.gif?raw=true)
 # Там бесчисленное множество разнообразных цветов фона и кисточки. 
+[![](https://github.com/Faruhshoh/risovalka/blob/main/README/%D0%90%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D1%8F%202.gif?raw=true)](https://github.com/Faruhshoh/risovalka/blob/main/README/%D0%90%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D1%8F%202.gif?raw=true)
 # Можете сменить кисточку на ластик и наоборот. 
 # Конечно же можно изменить размер кисточки и ластика.
 # Также вы можете полностью очистить ваш холст.
